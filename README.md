@@ -1,16 +1,15 @@
 ## Hi there 👋
+# 👋 Hello, I’m The Workflow Saint
 
-<!--
-**Theworkflowsaint/Theworkflowsaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build custom AI agents and Python automation systems that eliminate boring, manual work and save 40+ hours/month.
 
-Here are some ideas to get you started:
+🧠 Tools I use: Python · FastAPI · LangChain · Zapier · Playwright · Postgres · Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Services:
+- AI automation (email triage, Notion sync, report generation)
+- Workflow integration (Zapier, APIs, internal tools)
+- Custom bots (data scraping, monitoring agents, CRMs)
+
+📬 Reach out: theworkflowsaint@gmail.com
+
+⚔️ I build silently. I ship fast. I kill chaos with code.
